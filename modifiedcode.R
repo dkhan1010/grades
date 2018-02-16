@@ -159,14 +159,10 @@ temp_slist = config$Student_list %>% na.omit()
 # Read student list with predefined column names and separate columns
 slist = read_csv(temp_slist,col_names = c('Student ID','FN','LN','Email','Role','temp1','temp2','CRN'))
 slist = separate(slist,'Student ID',into=c('Student ID'),sep='\\ ',extra='drop')
-slist = separate(slist,'CRN',into=c('t1','t2'),sep='CRN-',extra='drop')
-slist = separate(slist,'t2',into=c('t2','t3'),sep='-',extra='drop')
-slist = slist %>% rename('CRN'='t2')
 # Select all rows where role is student
 slist = slist %>% filter(Role=='Student',!is.na(CRN)) %>% select(`Student ID`,FN,LN,Email,Role,CRN)
 # Change Email column to lower case 
 slist$Email = tolower(slist$Email)
-CRN = unique(slist$CRN)
 
 ########################################
 # Join slist and netacad grades

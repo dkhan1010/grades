@@ -1,5 +1,5 @@
 ﻿Netacad,Student_list,Template,Course,Course to include (Type 1 for Yes),Netacad column name,Score to include (current/final),Netacad column name weights (0-100)
-netacad.csv,slist.csv,10527.xls,ccna1,1,Assignments current score,current,
+ccna1-gbc-W18.csv,slist.csv,10527.xls,ccna1,1,Assignments current score,current,
 ,,10528.xls,ccna2,,Assignments final score,,
 ,,17424.xls,ccna3,,Pretest exam current score,,
 ,,,ccna4,,Pretest exam final score,,
