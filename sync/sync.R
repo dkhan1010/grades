@@ -16,7 +16,7 @@ slist = separate(slist,'Student ID',into=c('Student ID'),sep='\\ ',extra='drop')
 slist = slist %>% filter(Role=='Student',!is.na(CRN)) %>% select(`Student ID`,FN,LN,Email)
 # Change Email column to lower case 
 slist$Email = tolower(slist$Email)
-# Find preview user from the slist if present
+# Find preview user from the slist and remove if present
 if (grep(pattern = 'previewuser',slist$`Student ID`)>0) {
   slist = slist[-grep(pattern = 'previewuser',slist$`Student ID`),]
 }
