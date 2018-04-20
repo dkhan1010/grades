@@ -8,12 +8,12 @@ library(tidyr)
 # read slist filename from the configuration file and remove NAs
 #temp_slist = config$slist_filename %>% na.omit()
 # Load student list downloaded in the .csv format from the Blackboard
-slist = read_csv(file = 'slist_1151.csv',col_names=c('Student ID','FN','LN','Email','Role','temp1','temp2','CRN'))
+slist = read_csv(file = 'slist.csv',col_names=c('Student ID','FN','LN','SIS Login ID','Role','temp1','temp2','CRN'))
 slist = separate(slist,'Student ID',into=c('Student ID'),sep='\\ ',extra='drop')
 # Select all rows where role is student
-slist = slist %>% filter(Role=='Student',!is.na(CRN)) %>% select(`Student ID`,FN,LN,Email)
+slist = slist %>% filter(Role=='Student',!is.na(CRN)) %>% select(`Student ID`,FN,LN,`SIS Login ID`)
 # Change Email column to lower case 
-slist$Email = tolower(slist$Email)
+slist$`SIS Login ID` = tolower(slist$`SIS Login ID`)
 # Find preview user from the slist if present and remove it
 if (length(grep(pattern = 'previewuser',slist$`Student ID`))>0) {
   slist = slist[-grep(pattern = 'previewuser',slist$`Student ID`),]
@@ -47,11 +47,6 @@ if (length(grep(pattern = 'Test Student',netacad_grades$Student))>0) {
 }
 
 ##########################
-temp = bb_grades %>% select(
-  Email,
-  `Lab 1 [Total Pts: 7.5 Score] |913474`,
-  `Lab 2 [Total Pts: 7.5 Score] |913475`,
-  `Lab 3 [Total Pts: 7.5 Score] |913476`,
-  `Lab 4 [Total Pts: 7.5 Score] |913477`,
-  `Lab 5 [Total Pts: 7.5 Score] |913478`)
+temp = netacad_grades %>% left_join(bb_grades)
+write_csv(temp,'temp.csv')
 

@@ -3,6 +3,9 @@ install.packages('tidyr')
 install.packages('readr')
 install.packages('xlsx')
 install.packages('readxl')
+install.packages("rJava",type="source")
+#use the following line in the command prompt to setup path for rJava
+#sudo ln -f -s $(/usr/libexec/java_home)/jre/lib/server/libjvm.dylib /usr/local/lib
 library(dplyr)
 library(tidyr)
 library(readr)
@@ -38,7 +41,7 @@ if (netacad.score == 'current') {
                    `Pretest Exam Current Score`,
                    `Chapter Exams Current Score`,
                    `Skills Exams Current Score`,
-                   `Practice Final Exam Current Score`,
+                   `Practice Final Current Score`,
                    `Final Exam Current Score`)
     
       # Change the column name to add 'out of'. The 'out of' value is selected from the config.csv
@@ -60,7 +63,7 @@ if (netacad.score == 'current') {
                    'Pretest' = round((`Pretest Exam Current Score`/100)*config$`Netacad column name weights (0-100)`[3],2),
                    'Chapter exam' = round((`Chapter Exams Current Score`/100)*config$`Netacad column name weights (0-100)`[5],2),
                    'Skills exam' = round((`Skills Exams Current Score`/100)* config$`Netacad column name weights (0-100)`[7],2),
-                   'Practice exam' = round((`Practice Final Exam Current Score`/100)*config$`Netacad column name weights (0-100)`[9],2),
+                   'Practice exam' = round((`Practice Final Current Score`/100)*config$`Netacad column name weights (0-100)`[9],2),
                    'Final exam' = round((`Final Exam Current Score`/100)*config$`Netacad column name weights (0-100)`[11],2))
       
       # Calculate total
@@ -69,7 +72,7 @@ if (netacad.score == 'current') {
                      (`Pretest Exam Current Score`/100)  *  config$`Netacad column name weights (0-100)`[3]+
                      (`Chapter Exams Current Score`/100) *  config$`Netacad column name weights (0-100)`[5]+
                      (`Skills Exams Current Score`/100) *  config$`Netacad column name weights (0-100)`[7]+
-                     (`Practice Final Exam Current Score`/100) * config$`Netacad column name weights (0-100)`[9]+
+                     (`Practice Final Current Score`/100) * config$`Netacad column name weights (0-100)`[9]+
                      (`Final Exam Current Score`/100) * config$`Netacad column name weights (0-100)`[11])
 
       # Round off total column
