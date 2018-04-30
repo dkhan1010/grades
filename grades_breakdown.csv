@@ -1,228 +1,119 @@
-Student ID,FN,LN,Email,Role,CRN,Chapter exam out of 15,Total out of 100
-101148873,Anmol Singh,.,anmolsingh2@georgebrown.ca,Student,CRN-47288-201702,15,15
-101153810,Atul,.,atul@georgebrown.ca,Student,CRN-47290-201702,14.39,14
-101139260,Chaman Singh,.,chamansingh@georgebrown.ca,Student,CRN-47289-201702,14.79,15
-101151388,Sarvpreet Singh,.,sarvpreetsingh@georgebrown.ca,Student,CRN-47291-201702,15,15
-101152641,Varinder Singh,.,varindersingh@georgebrown.ca,Student,CRN-47290-201702,13.35,13
-101134809,Mohamed Iyoob,Abdul Majeed,mohamediyoobabdul.majeed@georgebrown.ca,Student,CRN-47290-201702,15,15
-101165088,Joel,Abramson,joel.abramson@georgebrown.ca,Student,CRN-47287-201702,0,0
-101146903,Bhavik,Adajania,bhavik.adajania@georgebrown.ca,Student,CRN-47290-201702,14.14,14
-100827322,Mohamed,Adan,mohamed.adan@georgebrown.ca,Student,CRN-47291-201702,0,0
-101120091,Mohamed,Aden,mohamed.aden@georgebrown.ca,Student,CRN-47288-201702,0,0
-101079203,Ali,Ahangar,ali.ahangar@georgebrown.ca,Student,CRN-47291-201702,0,0
-101122910,Jamal,Ahmed,jamal.ahmed@georgebrown.ca,Student,CRN-47287-201702,0,0
-101053730,Maher,Ahmed,maher.ahmed@georgebrown.ca,Student,CRN-47291-201702,0,0
-101170393,Salem,Aka,salem.aka@georgebrown.ca,Student,CRN-47289-201702,0,0
-101109261,Mohammed,Albakeet,mohammed.albakeet@georgebrown.ca,Student,CRN-47288-201702,0,0
-100874759,Sk,Ali,sk.ali@georgebrown.ca,Student,CRN-47288-201702,14.08,14
-101153123,Kassem,Alkhansa,kassem.alkhansa@georgebrown.ca,Student,CRN-47291-201702,14.54,15
-101088022,Adriano,Almeida,adriano.almeida@georgebrown.ca,Student,CRN-47288-201702,0,0
-101142654,Semir,Aman,semir.aman@georgebrown.ca,Student,CRN-47289-201702,0,0
-100971639,Chanaa,Aola,chanaa.aola@georgebrown.ca,Student,CRN-47291-201702,0,0
-100882957,Fessaha,Aradom,fessaha.aradom@georgebrown.ca,Student,CRN-47290-201702,14.82,15
-101163620,Kyle,Arnold,kyle.arnold@georgebrown.ca,Student,CRN-47291-201702,15,15
-101180093,Adetomiwa,Ayoola,adetomiwa.ayoola@georgebrown.ca,Student,CRN-47287-201702,0,0
-101057989,Seyyedamir,Badretale,seyyedamir.badretale@georgebrown.ca,Student,CRN-47287-201702,0,0
-101085985,Ritchel,Baldado,ritchel.baldado@georgebrown.ca,Student,CRN-47288-201702,10.53,11
-101168679,Ahmad,Barzouk,ahmad.barzouk@georgebrown.ca,Student,CRN-47291-201702,14.56,15
-101149674,Muskan,Batra,muskan.batra@georgebrown.ca,Student,CRN-47289-201702,0,0
-101170912,Jared,Battieste,jared.battieste@georgebrown.ca,Student,CRN-47290-201702,0,0
-101136147,Marcel,Bedard,marcel.bedard@georgebrown.ca,Student,CRN-47290-201702,9.93,10
-101086821,Michael,Betteto,michael.betteto@georgebrown.ca,Student,CRN-47287-201702,0,0
-101134510,Talha,Bhuiyan,talha.bhuiyan@georgebrown.ca,Student,CRN-47290-201702,0,0
-101125982,Rubaiat,Bhullar,rubaiat.bhullar@georgebrown.ca,Student,CRN-47287-201702,0,0
-101150178,Navdeep Kaur,Birring,navdeepkaur.birring@georgebrown.ca,Student,CRN-47288-201702,14.5,14
-101127813,Princila,Boakye,princila.boakye@georgebrown.ca,Student,CRN-47288-201702,0,0
-101153620,Simratjeet Singh,Boparai,simratjeetsingh.boparai@georgebrown.ca,Student,CRN-47290-201702,0,0
-101055887,Jean,Borbely,jean.borbely@georgebrown.ca,Student,CRN-47289-201702,0,0
-100629242,Vladyslav,Bordiug,vladyslav.bordiug@georgebrown.ca,Student,CRN-47287-201702,0,0
-101064909,Phi Long,Bui,philong.bui@georgebrown.ca,Student,CRN-47288-201702,0,0
-101146171,Jared,Butts,jared.butts@georgebrown.ca,Student,CRN-47290-201702,14.74,15
-101135596,Tamer,Cakir,tamer.cakir@georgebrown.ca,Student,CRN-47290-201702,14.93,15
-101138321,Lucas,Camargo Sacheto,lucas.camargosacheto@georgebrown.ca,Student,CRN-47288-201702,15,15
-101103886,Alberth,Camus Tuesta,alberth.camustuesta@georgebrown.ca,Student,CRN-47288-201702,14.55,15
-101153942,Vitor,Carvalho Leprevost,vitor.carvalholeprevost@georgebrown.ca,Student,CRN-47290-201702,12.97,13
-101136652,Prince,Chauhan,prince.chauhan@georgebrown.ca,Student,CRN-47289-201702,0,0
-100403736,Ronna Hill Ying,Choi,ronnahillying.choi@georgebrown.ca,Student,CRN-47291-201702,14.04,14
-101125277,Monzoor,Choudhury,monzoor.choudhury@georgebrown.ca,Student,CRN-47287-201702,0,0
-100950226,Tahlil,Chowdhury,tahlil.chowdhury@georgebrown.ca,Student,CRN-47289-201702,12.77,13
-101154849,James,Cockburn,james.cockburn@georgebrown.ca,Student,CRN-47291-201702,0,0
-101109117,Shane,Copeland,shane.copeland@georgebrown.ca,Student,CRN-47289-201702,0,0
-101180986,Calvin,Coplen,calvin.coplen@georgebrown.ca,Student,CRN-47290-201702,0,0
-101117375,Luka,Corsico,luka.corsico@georgebrown.ca,Student,CRN-47289-201702,14.05,14
-101167091,John,Coutts,john.coutts@georgebrown.ca,Student,CRN-47290-201702,14.14,14
-101175932,Rami,Dabbour,rami.dabbour@georgebrown.ca,Student,CRN-47291-201702,0,0
-101114163,Ryan,Daluz Duarte,ryan.daluzduarte@georgebrown.ca,Student,CRN-47290-201702,0,0
-101148400,Nemer Farah,Damous Filho,nemer.damous@georgebrown.ca,Student,CRN-47287-201702,0,0
-101188448,Alessandro,Da Silva Santos,alessandro.dasilvasantos@georgebrown.ca,Student,CRN-47287-201702,13.66,14
-101120460,James,Davis,james.davis@georgebrown.ca,Student,CRN-47289-201702,0,0
-101125923,Andrew,Dela Pena,andrew.delapena@georgebrown.ca,Student,CRN-47290-201702,0,0
-101039422,Daniel,Deris,daniel.deris@georgebrown.ca,Student,CRN-47287-201702,0,0
-101131276,Ashok,Devkar,ashok.devkar@georgebrown.ca,Student,CRN-47290-201702,13.41,13
-100983670,Yasmin,Duri,yasmin.duri@georgebrown.ca,Student,CRN-47289-201702,0,0
-101091254,Sirin,Elgadi,sirin.elgadi@georgebrown.ca,Student,CRN-47289-201702,0,0
-101124172,Mahdi,Esmaeelpour,mahdi.esmaeelpour@georgebrown.ca,Student,CRN-47287-201702,0,0
-101157359,Ahmad Arwin,Faqiri,ahmadarwin.faqiri@georgebrown.ca,Student,CRN-47287-201702,0,0
-101117182,Ali,Farahani,ali.farahani2@georgebrown.ca,Student,CRN-47288-201702,14.58,15
-101171795,Aregawi,Gebremicaeal,aregawi.gebremicaeal@georgebrown.ca,Student,CRN-47289-201702,14.81,15
-101082783,Daryl,Gervacio,daryl.gervacio@georgebrown.ca,Student,CRN-47290-201702,0,0
-101085119,Huy,Giang,giang.huytuan@georgebrown.ca,Student,CRN-47287-201702,0,0
-101024415,Bhavnesh,Gill,bhavnesh.gill@georgebrown.ca,Student,CRN-47289-201702,0,0
-100814545,Michel,Girard,michel.girard@georgebrown.ca,Student,CRN-47291-201702,0,0
-100753629,Marius,Gorbanescu,marius.gorbanescu@georgebrown.ca,Student,CRN-47291-201702,14.07,14
-101153817,Gourav,Gourav,gourav.gourav@georgebrown.ca,Student,CRN-47291-201702,0,0
-101148273,Shivkumar Kashyapbhai,Guard,shivkumarkashyapbhai.guard@georgebrown.ca,Student,CRN-47289-201702,11.63,12
-101024263,Gareth,Gummow,gareth.gummow@georgebrown.ca,Student,CRN-47291-201702,12.23,12
-101134972,Bowen,Guo,bowen.guo@georgebrown.ca,Student,CRN-47287-201702,0,0
-101063543,Antonio,Hadzhigeorgiev,antonio.hadzhigeorgiev@georgebrown.ca,Student,CRN-47290-201702,0,0
-101189835,David,Hakim,david.hakim@georgebrown.ca,Student,CRN-47291-201702,0,0
-101170223,Royhae,Hardware,royhae.hardware@georgebrown.ca,Student,CRN-47288-201702,14.94,15
-101081491,Michael,Harriott,michael.harriott@georgebrown.ca,Student,CRN-47291-201702,0,0
-101022151,Mohamad,Hazbawi,mohamad.hazbawi@georgebrown.ca,Student,CRN-47291-201702,0,0
-101132587,Trevor,Herron,trevor.herron@georgebrown.ca,Student,CRN-47287-201702,9.91,10
-100876370,Gervon,Hood,gervon.hood@georgebrown.ca,Student,CRN-47291-201702,14.52,15
-101151477,Yuhsiang,Hung,yuhsiang.hung@georgebrown.ca,Student,CRN-47288-201702,14.63,15
-101078240,Kevin,Hy,kevin.hy@georgebrown.ca,Student,CRN-47289-201702,0,0
-101162941,Paul,Ikhane,paul.ikhane@georgebrown.ca,Student,CRN-47289-201702,15,15
-101147288,Vernyuy,Innocent,vernyuy.innocent@georgebrown.ca,Student,CRN-47289-201702,0,0
-100922050,Anna Karissa,Ira,annakarissa.ira@georgebrown.ca,Student,CRN-47289-201702,13.82,14
-101166527,Radwan,Ismail,radwan.ismail@georgebrown.ca,Student,CRN-47291-201702,0,0
-101166634,Mohamed,Ismail,mohamed.ismail@georgebrown.ca,Student,CRN-47291-201702,0,0
-101106645,Jafferalli,Jagshi,jafferalli.jagshi@georgebrown.ca,Student,CRN-47291-201702,11.45,11
-101135850,Zain,Jagshi,zain.jagshi@georgebrown.ca,Student,CRN-47291-201702,0,0
-101151999,Sahil,Jain,sahil.jain2@georgebrown.ca,Student,CRN-47290-201702,0,0
-101161348,Minjune,Jee,minjune.jee@georgebrown.ca,Student,CRN-47288-201702,14.26,14
-101110211,Teweldebirhan,Kahsay,teweldebirhan.kahsay@georgebrown.ca,Student,CRN-47291-201702,14.61,15
-101129678,Nicolas,Katsoulakis,nicolas.katsoulakis@georgebrown.ca,Student,CRN-47291-201702,8.57,9
-101154475,Komalpreet,Kaur,komalpreet.kaur3@georgebrown.ca,Student,CRN-47290-201702,14.36,14
-100311414,Hussein,Khalifa,hussein.khalifa@georgebrown.ca,Student,CRN-47289-201702,15,15
-101157307,Saad,Khan,saad.khan2@georgebrown.ca,Student,CRN-47287-201702,0,0
-101080888,Iqra,Khan,iqra.khan2@georgebrown.ca,Student,CRN-47289-201702,0,0
-101111190,Parisa,Khataei,parisa.khataei@georgebrown.ca,Student,CRN-47287-201702,12.97,13
-101117049,Mohammad Irfaan,Khodabukus,mohammadirfaan.khodabukus@georgebrown.ca,Student,CRN-47290-201702,0,0
-101149703,Mohd Salem,Khoshiwal,mohdsalem.khoshiwal@georgebrown.ca,Student,CRN-47288-201702,14.15,14
-101086285,Hyung Joon,Kim,hyungjoon.kim2@georgebrown.ca,Student,CRN-47289-201702,13.55,14
-101005441,Sang Jin,Kim,sangjin.kim@georgebrown.ca,Student,CRN-47288-201702,0,0
-101108693,Kyungmin,Kim,kyungmin.kim2@georgebrown.ca,Student,CRN-47290-201702,0,0
-100841234,Eugene,Kim,eugene.kim@georgebrown.ca,Student,CRN-47291-201702,0,0
-101160072,Austin,King,austin.king@georgebrown.ca,Student,CRN-47289-201702,0,0
-101153504,Rahul,Koshti,rahul.koshti@georgebrown.ca,Student,CRN-47290-201702,15,15
-101128208,Yuri Guilherme,Kusik,yuriguilherme.kusik@georgebrown.ca,Student,CRN-47289-201702,0,0
-101165940,Kostiantyn,Kyryliuk,kostiantyn.kyryliuk@georgebrown.ca,Student,CRN-47287-201702,14.61,15
-101144445,Emmett,Law,emmett.law@georgebrown.ca,Student,CRN-47291-201702,0,0
-101154115,Eunyoung,Lee,eunyoung.lee2@georgebrown.ca,Student,CRN-47290-201702,13.57,14
-101106553,Veronyque,Lemieux,veronyque.lemieux@georgebrown.ca,Student,CRN-47287-201702,14.74,15
-101166383,Ervin Lou,Libon,ervinlou.libon@georgebrown.ca,Student,CRN-47288-201702,12.68,13
-100922033,Kirk,Lim,kirk.lim@georgebrown.ca,Student,CRN-47289-201702,0,0
-101146847,Hanina Faith,Linao,haninafaith.linao@georgebrown.ca,Student,CRN-47289-201702,0,0
-101157899,Yichen,Liu,yichen.liu3@georgebrown.ca,Student,CRN-47287-201702,0,0
-101157313,Ryan,Liu,ryan.liu@georgebrown.ca,Student,CRN-47287-201702,14.37,14
-101056373,Shetren,Lloyd,shetren.lloyd@georgebrown.ca,Student,CRN-47289-201702,0,0
-101137768,Sergio,Lombana Travecedo,sergio.lombanatravecedo@georgebrown.ca,Student,CRN-47287-201702,13.1,13
-101151762,Jin Yong,Maeng,jinyong.maeng@georgebrown.ca,Student,CRN-47288-201702,0,0
-100956636,Dylan,Magalhaes,dylan.magalhaes@georgebrown.ca,Student,CRN-47291-201702,0,0
-101155515,Jerico Ryan,Malgapu,jericoryan.malgapu@georgebrown.ca,Student,CRN-47290-201702,0,0
-101151516,Luis,Marquez,luis.marquez@georgebrown.ca,Student,CRN-47291-201702,13.91,14
-101144671,Matthew,Mashkoor,matthew.mashkoor@georgebrown.ca,Student,CRN-47290-201702,0,0
-101175934,Collins,Mbuton Echawah,collins.mbutonechawah@georgebrown.ca,Student,CRN-47289-201702,0,0
-100908688,Kevin,Mcdonald,kevin.mcdonald@georgebrown.ca,Student,CRN-47290-201702,0,0
-101133698,Michael,Mckay,michael.mckay@georgebrown.ca,Student,CRN-47289-201702,0,0
-101146886,Carlon,Mckay,carlon.mckay@georgebrown.ca,Student,CRN-47291-201702,0,0
-101157726,Semih,Meral,semih.meral@georgebrown.ca,Student,CRN-47288-201702,15,15
-101163981,Ian Vincent Garcia,Miranda,ianvincentgarcia.miranda@georgebrown.ca,Student,CRN-47287-201702,0,0
-101157319,James,Mitchell,james.mitchell2@georgebrown.ca,Student,CRN-47291-201702,0,0
-101102639,Omar,Mohamed,omar.mohamed2@georgebrown.ca,Student,CRN-47289-201702,0,0
-101149416,Nadezhda,Mokhireva,nadezhda.mokhireva@georgebrown.ca,Student,CRN-47287-201702,14.69,15
-101154718,Deepak,Monga,deepak.monga@georgebrown.ca,Student,CRN-47288-201702,14.19,14
-101140763,Darrell,Montemayor,darrell.montemayor@georgebrown.ca,Student,CRN-47290-201702,12.14,12
-101159722,Beatriz,Morales,beatriz.morales@georgebrown.ca,Student,CRN-47289-201702,0,0
-100935072,James,Murphy,james.murphy@georgebrown.ca,Student,CRN-47290-201702,0,0
-101194526,Sharmarke,Muse,sharmarke.muse@georgebrown.ca,Student,CRN-47288-201702,0,0
-101152630,Bhargav,Nagar,bhargav.nagar@georgebrown.ca,Student,CRN-47291-201702,0,0
-101152749,Sir Angel,Naguit,sirangel.naguit@georgebrown.ca,Student,CRN-47287-201702,0,0
-100973509,Ahmad Wais,Neda,ahmadwais.neda@georgebrown.ca,Student,CRN-47288-201702,15,15
-101184699,Viacheslav,Nepomniashchyi,viacheslav.nepomniashchyi@georgebrown.ca,Student,CRN-47287-201702,13.38,13
-101148412,Vo Anh Tu,Nguyen,voanhtu.nguyen@georgebrown.ca,Student,CRN-47289-201702,14.85,15
-101140366,Thong,Nguyen,thong.nguyen@georgebrown.ca,Student,CRN-47288-201702,14.48,14
-101137551,Duy Minh,Nguyen,duyminh.nguyen@georgebrown.ca,Student,CRN-47288-201702,15,15
-101148850,Huu Tri,Nguyen,huutri.nguyen@georgebrown.ca,Student,CRN-47290-201702,11.49,11
-100968130,Mark,Nisperos,mark.nisperos@georgebrown.ca,Student,CRN-47290-201702,0,0
-100978162,Katrin,Nosov,katrin.nosov@georgebrown.ca,Student,CRN-47291-201702,0,0
-101168673,Ali,Osman,ali.osman@georgebrown.ca,Student,CRN-47287-201702,0,0
-101151549,Arth,Pagedar,arth.pagedar@georgebrown.ca,Student,CRN-47288-201702,0,0
-101124971,Tenzin,Paljor,tenzin.paljor2@georgebrown.ca,Student,CRN-47291-201702,14.57,15
-100463517,Qi,Pan,qi.pan@georgebrown.ca,Student,CRN-47289-201702,0,0
-101145593,Sahara,Panna,sahara.panna@georgebrown.ca,Student,CRN-47289-201702,0,0
-101152646,Nikita,Panwar,nikita.panwar@georgebrown.ca,Student,CRN-47288-201702,15,15
-101147157,Ji Soo,Park,jisoo.park@georgebrown.ca,Student,CRN-47291-201702,0,0
-101172965,Thomas,Parnell,thomas.parnell@georgebrown.ca,Student,CRN-47291-201702,0,0
-101162370,Asim,Patel,asim.patel@georgebrown.ca,Student,CRN-47287-201702,14.4,14
-101145861,Karan Jaydipbhai,Patel,karanjaydipbhai.patel@georgebrown.ca,Student,CRN-47288-201702,13.17,13
-101153633,Pavan,Patel,pavan.patel2@georgebrown.ca,Student,CRN-47290-201702,15,15
-101152017,Priyank Anilbhai,Patel,priyankanilbhai.patel@georgebrown.ca,Student,CRN-47291-201702,0,0
-101121058,Joseph,Paule,joseph.paule@georgebrown.ca,Student,CRN-47290-201702,0,0
-101165765,Maxim,Pavlov,maxim.pavlov@georgebrown.ca,Student,CRN-47291-201702,13.54,14
-101102817,Daniel,Pena,daniel.pena@georgebrown.ca,Student,CRN-47290-201702,0,0
-101136246,Cong Nhat Quang,Pham,congnhatquang.pham@georgebrown.ca,Student,CRN-47289-201702,15,15
-101142560,Thanh,Quan,thanh.quan@georgebrown.ca,Student,CRN-47287-201702,14.61,15
-101132736,Rafael,Quintanilha Ferreira,rafael.quintanilhaferreira@georgebrown.ca,Student,CRN-47288-201702,14.21,14
-101054615,Sheak Iftakhar,Rahaman,sheakiftakhar.rahaman@georgebrown.ca,Student,CRN-47287-201702,14.89,15
-101150375,Dewan Rafsan,Raja,dewanrafsan.raja@georgebrown.ca,Student,CRN-47289-201702,0,0
-101153814,Rajat,Rajat,rajat.rajat@georgebrown.ca,Student,CRN-47291-201702,0,0
-101156238,Nishtha Jagdishbhai,Ramani,nishthajagdishbhai.ramani@georgebrown.ca,Student,CRN-47288-201702,12.68,13
-101150838,Yuvrajsinh,Rathod,yuvrajsinh.rathod@georgebrown.ca,Student,CRN-47291-201702,15,15
-100956112,Munazum,Rauf,munazum.rauf@georgebrown.ca,Student,CRN-47287-201702,0,0
-101149675,Satvik,Raval,satvik.raval@georgebrown.ca,Student,CRN-47291-201702,15,15
-100880497,Angelo,Rueda,angelo.rueda@georgebrown.ca,Student,CRN-47291-201702,13.31,13
-101075750,Lotis,Sacayan,lotis.sacayan@georgebrown.ca,Student,CRN-47289-201702,0,0
-101088130,Matthew,Safi,matthew.safi@georgebrown.ca,Student,CRN-47287-201702,0,0
-101148435,Tajinder Singh,Saini,tajindersingh.saini@georgebrown.ca,Student,CRN-47288-201702,0,0
-100784782,Gregory,Sandoval,gregory.sandoval@georgebrown.ca,Student,CRN-47290-201702,0,0
-101152588,Ajay Sankar,Sankaran Vijayanambi,ajaysankar.sankaranvijayanambi@georgebrown.ca,Student,CRN-47288-201702,12.61,13
-101011029,Delfin Alvin,Santiago,delfinalvin.santiago@georgebrown.ca,Student,CRN-47288-201702,12.56,13
-101115368,Aprevalado,Scott,aprevalao.scott@georgebrown.ca,Student,CRN-47287-201702,0,0
-100996089,Zeshan,Shaikh,zeshan.shaikh@georgebrown.ca,Student,CRN-47288-201702,0,0
-101148724,Harshvardhan,Sharma,harshvardhan.sharma@georgebrown.ca,Student,CRN-47288-201702,0,0
-101159461,Fatima,Shireen,fatima.shireen@georgebrown.ca,Student,CRN-47289-201702,0,0
-101128317,Julian,Sibilia,julian.sibilia@georgebrown.ca,Student,CRN-47288-201702,0,0
-101152021,Karanveer Singh,Sidhu,karanveersingh.sidhu@georgebrown.ca,Student,CRN-47288-201702,14.83,15
-101165757,Manjot,Sidhu,manjot.sidhu@georgebrown.ca,Student,CRN-47287-201702,0,0
-101150691,Vikram,Singh,vikram.singh@georgebrown.ca,Student,CRN-47290-201702,14.2,14
-101122583,Adreon,Singh,adreon.singh2@georgebrown.ca,Student,CRN-47291-201702,0,0
-101146048,Priyanka,Singla,priyanka.singla@georgebrown.ca,Student,CRN-47288-201702,0,0
-101165362,Isodoros,Snowden,isodoros.snowden@georgebrown.ca,Student,CRN-47289-201702,0,0
-101136432,Maurya,Sood,maurya.sood@georgebrown.ca,Student,CRN-47288-201702,13.26,13
-101152751,Rajkumarie,Sookhoo,rajkumarie.sookhoo@georgebrown.ca,Student,CRN-47291-201702,0,0
-101150633,Nirav,Sorathia,nirav.sorathia@georgebrown.ca,Student,CRN-47287-201702,0,0
-100704253,Christopher,Spraggett,christopher.spraggett@georgebrown.ca,Student,CRN-47287-201702,13.54,14
-101166250,Chandandeep,Sudan,chandandeep.sudan@georgebrown.ca,Student,CRN-47290-201702,12.46,12
-101128972,Natnahal,Tadesse,natnahal.tadesse@georgebrown.ca,Student,CRN-47290-201702,0,0
-101144723,Jen-ho,Tai,jen-ho.tai@georgebrown.ca,Student,CRN-47290-201702,0,0
-101130840,Jigmey,Tashitsang,jigmey.tashitsang@georgebrown.ca,Student,CRN-47288-201702,0,0
-101095460,Musie,Tesfagiorgis,musie.tesfagiorgis@georgebrown.ca,Student,CRN-47289-201702,0,0
-101157911,Jeremy,Thibeau,jeremy.thibeau@georgebrown.ca,Student,CRN-47287-201702,13.53,14
-100904475,Elijah,Thomas,elijah.thomas@georgebrown.ca,Student,CRN-47289-201702,0,0
-101131155,Mai Chi,Tran,maichi.tran@georgebrown.ca,Student,CRN-47290-201702,14.18,14
-101139860,Duc Chinh,Tran,ducchinh.tran@georgebrown.ca,Student,CRN-47288-201702,14.72,15
-100719969,Hristo,Tsvetkov,hristo.tsvetkov@georgebrown.ca,Student,CRN-47289-201702,0,0
-101091735,Joeriz,Ubina,joeriz.ubina@georgebrown.ca,Student,CRN-47288-201702,0,0
-101153320,Vivek Ketankumar,Vaidya,vivekketankumar.vaidya@georgebrown.ca,Student,CRN-47288-201702,15,15
-100788128,Anthony,Vanrieal,anthony.vanrieal@georgebrown.ca,Student,CRN-47291-201702,0,0
-101164502,Ryan,Van Wijngaarden,ryan.vanwijngaarden@georgebrown.ca,Student,CRN-47288-201702,0,0
-101002473,Carlos,Velez Castillo,carlos.velezcastillo@georgebrown.ca,Student,CRN-47290-201702,0,0
-101150218,Amit,Verma,amit.verma@georgebrown.ca,Student,CRN-47290-201702,13.66,14
-101099946,Mark Joseph,Vibar,markjoseph.vibar@georgebrown.ca,Student,CRN-47290-201702,0,0
-101159185,Francis Bertholet,Victa,francisbertholet.victa@georgebrown.ca,Student,CRN-47287-201702,15,15
-101141047,Cindy,Vo,cindy.vo@georgebrown.ca,Student,CRN-47290-201702,0,0
-101066873,Brady,Voyame,brady.voyame@georgebrown.ca,Student,CRN-47290-201702,0,0
-101158642,Austin,Walsom,austin.walsom@georgebrown.ca,Student,CRN-47291-201702,0,0
-101164188,Tenzin,Wangden,tenzin.wangden@georgebrown.ca,Student,CRN-47287-201702,0,0
-101091788,Nunkedie Steeven Orell Junior,Wemin,nunkediesteevenorelljunior.wemin@georgebrown.ca,Student,CRN-47287-201702,11.89,12
-101148080,David,Wieczorek,david.wieczorek@georgebrown.ca,Student,CRN-47287-201702,15,15
-101150160,Jeremy,Worrall,jeremy.worrall@georgebrown.ca,Student,CRN-47290-201702,0,0
-101121060,Jay,Wright,jay.wright@georgebrown.ca,Student,CRN-47288-201702,0,0
-101151657,Maria Lilian,Yang,marialilian.yang@georgebrown.ca,Student,CRN-47289-201702,14.7,15
-101141239,Jisu,Yoon,jisu.yoon@georgebrown.ca,Student,CRN-47290-201702,0,0
-101159451,Farzad,Zahedi,farzad.zahedi@georgebrown.ca,Student,CRN-47289-201702,0,0
-101053742,Jingyu,Zhan,jingyu.zhan@georgebrown.ca,Student,CRN-47288-201702,14.67,15
-101159615,Hui,Zhao,hui.zhao@georgebrown.ca,Student,CRN-47291-201702,0,0
+Student ID,FN,LN,Email,Role,CRN,Chapter exam out of 15,Skills exam out of 30,Practice exam out of 35,Final exam out of 20,Total out of 100
+101109859,Kefah,Abboud,kefah.abboud@georgebrown.ca,Student,CRN-46125-201702,15,30,33.25,20,98
+101115388,Bassam,Abdulkhalek,bassam.abdulkhalek@georgebrown.ca,Student,CRN-46123-201702,15,28.8,27.3,19.6,91
+101133963,Gaurav,Ahuja,gaurav.ahuja@georgebrown.ca,Student,CRN-46125-201702,15,22.5,9.1,6.94,0
+101140824,Mohd Nomaan,Amdani,nomaan.amdani@georgebrown.ca,Student,CRN-46125-201702,14.9,22.5,12.95,17.06,0
+101053662,Samuel,Araujo,samuel.araujo@georgebrown.ca,Student,CRN-46124-201702,14.67,26.7,19.95,13,74
+100752201,Phillip,Belcher,pbelcher@georgebrown.ca,Student,CRN-46123-201702,14.69,0,0,0,0
+101090846,Abel,Berhane,abel.berhane@georgebrown.ca,Student,CRN-46125-201702,14.37,0,0,0,0
+101128486,Surinder Singh,Brar,surindersingh.brar@georgebrown.ca,Student,CRN-46125-201702,15,26.4,16.1,17.64,0
+101141723,Dharmpreet Singh,Brar,dharampreetsingh.brar@georgebrown.ca,Student,CRN-46125-201702,15,26.4,15.75,18.82,0
+101138019,Raj Singh,Brar,rajsingh.brar@georgebrown.ca,Student,CRN-46125-201702,15,26.4,11.2,17.06,0
+101133644,The Luan,Bui,theluan.bui@georgebrown.ca,Student,CRN-46125-201702,14.97,28.5,16.45,17.64,0
+101108086,Carlos,Calderon,carlos.calderon3@georgebrown.ca,Student,CRN-46126-201702,14.79,27.9,30.45,19.42,93
+101121773,Edson,Casimiro,edson.casimiro@georgebrown.ca,Student,CRN-46123-201702,13.49,0,23.8,10.78,48
+101139254,Mohammed Shaheer,Chakkalakunnan,mohammedshaheer.chakkalakunnan@georgebrown.ca,Student,CRN-46125-201702,15,30,16.45,5.74,0
+101065049,Ryan,Chan,ryan.chan2@georgebrown.ca,Student,CRN-46124-201702,14.8,27.3,20.65,15.1,78
+101123137,Jonathan,Channer,jonathan.channer@georgebrown.ca,Student,CRN-46126-201702,14.82,30,26.6,18.82,90
+101122342,Neel,Chaudhari,neel.chaudhari@georgebrown.ca,Student,CRN-46125-201702,14.79,22.5,7.35,18.26,0
+101117451,Qingyuan,Chen,qingyuan.chen@georgebrown.ca,Student,CRN-46123-201702,14.91,28.2,19.95,14.36,77
+101139858,Tz Han,Chen,tzhan.chen@georgebrown.ca,Student,CRN-46126-201702,14.73,30,27.65,18.84,91
+101129593,Navraj Kaur,Chhillar,navrajkaur.chhillar@georgebrown.ca,Student,CRN-46125-201702,14.82,19.5,9.8,13.4,0
+101148109,Nurul,Chowdhury,nurul.chowdhury@georgebrown.ca,Student,CRN-46124-201702,14.8,27.3,20.65,16.66,79
+100991741,Christopher,Christens,christopher.christens@georgebrown.ca,Student,CRN-46124-201702,12.65,29.1,29.05,14.18,85
+101067686,Jason,Clyne-Robinson,jason.clyne-robinson@georgebrown.ca,Student,CRN-46124-201702,0,28.8,23.8,7.06,60
+101134523,Albert,Cuartero,albert.cuartero@georgebrown.ca,Student,CRN-46126-201702,14.87,27,25.55,20,87
+100831552,Benjamin,Da Costa,benjamin.dacosta@georgebrown.ca,Student,CRN-46124-201702,13.5,29.1,30.8,12.42,86
+101138667,Bikramdeep,Deol,bikramdeep.deol@georgebrown.ca,Student,CRN-46125-201702,14.8,28.5,26.95,13.52,84
+101121359,Fernando Jose,De Paula Ferreira Costa Filho,fernandojose.depaulaferreiracostafilho@georgebrown.ca,Student,CRN-46126-201702,14.06,27.9,24.85,18.44,85
+100901140,Evan,Dorion,evan.dorion@georgebrown.ca,Student,CRN-46124-201702,6.75,23.1,23.8,9.6,63
+101138580,Mehboob,Elahi,mehboob.elahi@georgebrown.ca,Student,CRN-46125-201702,0,30,23.1,18.24,71
+101134354,Kurt,Faller,kurt.faller@georgebrown.ca,Student,CRN-46126-201702,15,23.1,11.55,0,0
+101038199,Nicolas,Francis,nicolas.francis@georgebrown.ca,Student,CRN-46126-201702,14.1,21,7.7,18.42,0
+101044501,Nathan,Gappy,nathan.gappy@georgebrown.ca,Student,CRN-46125-201702,15,14.4,0,0,0
+101128230,Gouled,Geldon,gouled.geldon@georgebrown.ca,Student,CRN-46124-201702,11.66,28.8,23.8,15.24,79
+101117311,Bastian,Germer,bastian.germer@georgebrown.ca,Student,CRN-46125-201702,0,0,0,0,0
+101117163,Narges,Gheysari,narges.gheysari@georgebrown.ca,Student,CRN-46123-201702,14.85,29.7,23.8,16.5,85
+101100536,Anh Tu,Giap,anhtu.giap@georgebrown.ca,Student,CRN-46124-201702,14.66,27.9,20.65,18.06,81
+101137969,Omar,Gordon,omar.gordon@georgebrown.ca,Student,CRN-46125-201702,13.76,30,21,18.22,83
+100987680,Jessica,Grierson,jessica.grierson@georgebrown.ca,Student,CRN-46123-201702,14.22,0,0,0,0
+101110275,Miso,Han,miso.han@georgebrown.ca,Student,CRN-46126-201702,15,30,29.75,19,94
+101081324,Euihwan,Han,euihwan.han@georgebrown.ca,Student,CRN-46126-201702,13.77,23.1,15.75,16.9,0
+101136127,Brandon,Hard,brandon.hard@georgebrown.ca,Student,CRN-46124-201702,13.44,24.3,21.7,9.02,68
+100997192,Joseph,Heung,joseph.heung@georgebrown.ca,Student,CRN-46126-201702,14.81,30,24.85,18.64,88
+101084767,Kyle Hollands,Hollands,kylehollands.hollands@georgebrown.ca,Student,CRN-46125-201702,12.03,30,29.05,12.28,83
+101140047,Haruka,Izumichi,haruka.izumichi@georgebrown.ca,Student,CRN-46126-201702,15,30,28.7,15.88,90
+101037861,Jean Carry,Joseph,jeancarry.joseph@georgebrown.ca,Student,CRN-46126-201702,14.94,30,6.3,9.32,0
+100948514,Shawn,Joseph-Campbell,shawn.joseph-campbell@georgebrown.ca,Student,CRN-46124-201702,14.5,28.8,22.75,8.54,75
+101078355,Nao,Kado,nao.kado@georgebrown.ca,Student,CRN-46126-201702,15,30,30.45,19.6,95
+101127866,Salman,Kazi,salman.kazi@georgebrown.ca,Student,CRN-46124-201702,14.66,29.1,25.9,17.64,87
+101152144,Meseret,Kelemework,meseret.kelemework@georgebrown.ca,Student,CRN-46124-201702,14.27,28.5,21,17.08,81
+101120045,Muhammad,Khan,muhammedowais.khan@georgebrown.ca,Student,CRN-46124-201702,13.87,24.6,22.05,18.02,79
+101092173,Masoud,Khatibi,masoud.khatibi@georgebrown.ca,Student,CRN-46124-201702,14.83,29.4,25.9,18.26,88
+101147875,Amadou,Kijera,amadou.kijera@georgebrown.ca,Student,CRN-46123-201702,14.54,27.3,20.65,12.36,75
+100782935,Chansoo,Kim,chansoo.kim@georgebrown.ca,Student,CRN-46124-201702,14.69,24,24.85,8.12,72
+101134847,Amit,Kumar,amit.kumar2@georgebrown.ca,Student,CRN-46125-201702,15,26.4,10.15,15.14,0
+101131048,Su Ji,Lee,suji.lee@georgebrown.ca,Student,CRN-46126-201702,15,30,30.45,18.44,94
+101137439,Hyun Joon,Lee,hyunjoon.lee@georgebrown.ca,Student,CRN-46123-201702,14.75,26.4,25.9,0,67
+101045765,Jiahui,Li,jiahui.li@georgebrown.ca,Student,CRN-46124-201702,15,28.5,23.8,17.28,85
+101151730,Zhebin,Liang,zhebin.liang@georgebrown.ca,Student,CRN-46123-201702,14.97,28.5,19.95,18.06,81
+101143897,Justin Edward,Madrid,justinedward.madrid@georgebrown.ca,Student,CRN-46125-201702,0,0,0,0,0
+101114881,Kevin,Maier,kevin.maier@georgebrown.ca,Student,CRN-46126-201702,14.97,30,27.65,17.22,90
+101021255,Khalid,Malik,khalid.malik@georgebrown.ca,Student,CRN-46126-201702,13.65,24,22.05,17.84,78
+101138992,Anson,Mariyanayagam,anson.mariyanayagam@georgebrown.ca,Student,CRN-46123-201702,14.97,28.8,21.7,18.84,84
+101144102,Jordan,Marsh,jordan.marsh@georgebrown.ca,Student,CRN-46123-201702,9.82,28.8,28,11.68,78
+100823397,Elias,Mejia,elias.mejia@georgebrown.ca,Student,CRN-46125-201702,13.6,0,0,0,0
+101129226,Richie,Mintis,richie.mintis@georgebrown.ca,Student,CRN-46123-201702,14.88,26.4,21.35,18.02,81
+101087996,Goichi,Miyazawa,goichi.miyazawa@georgebrown.ca,Student,CRN-46126-201702,0,0,0,0,0
+101076943,Aniket,Mohile,aniket.mohile@georgebrown.ca,Student,CRN-46125-201702,12.46,30,10.85,13.4,0
+101109106,Junelle,Mosquito,junelle.mosquito@georgebrown.ca,Student,CRN-46123-201702,15,28.2,18.9,6.34,68
+101127109,Renier,Moyano,renier.moyano@georgebrown.ca,Student,CRN-46125-201702,14.65,26.4,22.75,5.64,69
+101034438,Md,Nasiruzzaman,md.nasiruzzaman@georgebrown.ca,Student,CRN-46125-201702,15,30,29.05,20,94
+101118878,Manh Dung,Nguyen,manhdung.nguyen@georgebrown.ca,Student,CRN-46125-201702,13.92,28.5,32.2,18.44,93
+101137537,Gage,Noel,gage.noel@georgebrown.ca,Student,CRN-46126-201702,14.15,24.9,23.45,14.76,77
+101154282,Sahal,Omar,sahal.omar@georgebrown.ca,Student,CRN-46126-201702,13.91,24,16.8,18.42,0
+101137223,Faiysal,Panchbhaya,faiysal.panchbhaya@georgebrown.ca,Student,CRN-46123-201702,14.71,28.5,19.25,17.42,80
+101130768,Damanpreet Singh,Panesar,damanpreetsingh.panesar@georgebrown.ca,Student,CRN-46125-201702,15,28.5,9.1,19.2,0
+101095327,Binaydeep,Parmar,binaydeep.parmar@georgebrown.ca,Student,CRN-46126-201702,14.38,0,0,0,0
+101115973,Arth Kaileshkumar,Patel,arthkaileshkumar.patel@georgebrown.ca,Student,CRN-46125-201702,14.87,28.5,21,18.44,83
+101139045,Krushali Jayeshkumar,Patel,krushalijayeshkumar.patel@georgebrown.ca,Student,CRN-46125-201702,14.77,22.5,9.8,13.6,0
+100964587,Darren,Pierre,darren.pierre@georgebrown.ca,Student,CRN-46125-201702,14.69,28.5,11.2,10.1,0
+101080435,Marco Antonio,Pinas Marin,marco.pinas@georgebrown.ca,Student,CRN-46126-201702,13.21,27.9,23.1,16.48,81
+101127234,Justin,Powell,justin.powell@georgebrown.ca,Student,CRN-46126-201702,15,27,26.95,19.6,89
+101050159,Goran,Prpic,goran.prpic@georgebrown.ca,Student,CRN-46123-201702,14.93,29.7,21.35,18.44,84
+101114502,Edswen,Quilang,edswen.quilang@georgebrown.ca,Student,CRN-46125-201702,14.79,27,18.9,6.14,67
+101155523,Afzal,Rahman,afzal.rahman@georgebrown.ca,Student,CRN-46126-201702,14.94,26.1,23.45,14.7,79
+101088838,Nastaran,Rakhshan Navazkar,nastaran.rakhshannavazkar@georgebrown.ca,Student,CRN-46124-201702,13.84,29.4,30.8,16.12,90
+101128335,Andrew,Rambajue,andrew.rambajue@georgebrown.ca,Student,CRN-46123-201702,0,0,0,0,0
+101107854,Anubhav,Rawat,anubhav.rawat@georgebrown.ca,Student,CRN-46125-201702,14.84,22.5,7.35,14.32,0
+101135469,Hang,Ren,hang.ren@georgebrown.ca,Student,CRN-46124-201702,14.81,29.1,25.2,19.2,88
+101104798,Kyle,Rosseau,kyle.rosseau@georgebrown.ca,Student,CRN-46124-201702,14.77,28.8,25.9,8.52,78
+101125925,Mohammed,Saeed,mohammed.saeed@georgebrown.ca,Student,CRN-46124-201702,14.01,28.5,27.3,9.9,80
+101030101,Iftikhar Ahmad,Safi,iftikharahmad.safi@georgebrown.ca,Student,CRN-46124-201702,0,0,0,0,0
+100955922,Jonathan,Savedra,jonathan.savedra@georgebrown.ca,Student,CRN-46126-201702,14.87,24.9,30.8,18.82,89
+101140798,Anna,Semonyuk,anna.semonyuk@georgebrown.ca,Student,CRN-46126-201702,15,30,24.5,18.42,88
+100933555,Paolo,Shahinaj,paolo.shahinaj@georgebrown.ca,Student,CRN-46126-201702,14.85,15,0,4.86,0
+101102696,Roberto,Siano,roberto.siano@georgebrown.ca,Student,CRN-46126-201702,13.3,18.9,9.45,0,0
+101133839,April Rose,Silla,aprilrose.silla@georgebrown.ca,Student,CRN-46123-201702,15,24.6,18.2,14.5,72
+101130194,Kawalpreet,Singh,kawalpreetsingh.sehdev@georgebrown.ca,Student,CRN-46125-201702,15,26.4,21.7,12.48,76
+101016667,Amandeep,Singh,amandeep.singh5@georgebrown.ca,Student,CRN-46125-201702,14.07,3.6,11.55,5.3,0
+101121804,Shannon,Smith,shannon.smith2@georgebrown.ca,Student,CRN-46123-201702,14.91,29.7,28.7,19.6,93
+100792261,David,Su,david.su@georgebrown.ca,Student,CRN-46126-201702,0,0,0,0,0
+101144646,Xin,Sun,xin.sun@georgebrown.ca,Student,CRN-46126-201702,14.89,18,18.55,18.84,70
+101058620,Jack,Sutcliffe,jack.sutcliffe@georgebrown.ca,Student,CRN-46126-201702,13.73,17.1,9.45,7.12,0
+101108080,Vitor Emanuel,Sylva Carvalho,vitoremanuel.sylvacarvalho@georgebrown.ca,Student,CRN-46123-201702,13.82,28.2,21.7,8.34,72
+100891994,Billy,Tan,billy.tan@georgebrown.ca,Student,CRN-46123-201702,11.89,28.5,29.4,18.04,88
+101120963,Yanique,Taylor,taylor.yanique@georgebrown.ca,Student,CRN-46124-201702,14.01,28.2,23.8,8.16,74
+101113658,Aaron,Thompson,aaron.thompson2@georgebrown.ca,Student,CRN-46123-201702,14.74,29.1,24.5,16.32,85
+101074529,Dad,Tokhi,dad.tokhi@georgebrown.ca,Student,CRN-46123-201702,14.88,29.4,29.75,9.52,84
+101155440,Brandon,Tran,brandon.tran2@georgebrown.ca,Student,CRN-46125-201702,14.71,28.5,32.9,15.68,92
+101097828,Thu,Tran,thu.tran2@georgebrown.ca,Student,CRN-46124-201702,15,29.4,24.85,18.06,87
+101105359,Nguyen Haianh,Tran,nguyenhaianh.tran@georgebrown.ca,Student,CRN-46123-201702,14.85,28.8,20.65,12.54,77
+101138195,Farhan Mahamadbhai,Vahora,farhanmahamadbhai.vahora@georgebrown.ca,Student,CRN-46125-201702,0,26.4,10.5,17.46,0
+101138353,Hoang Long,Vu,hoanglong.vu@georgebrown.ca,Student,CRN-46125-201702,14.82,28.5,30.1,18.42,92
+101028808,Lianfeng,Xu,lianfeng.xu@georgebrown.ca,Student,CRN-46126-201702,14.32,21.9,20.65,8.04,65
+101137793,Mohit,Yadav,mohit.yadav@georgebrown.ca,Student,CRN-46125-201702,14.74,30,9.1,11.48,0
+100905103,Billy,Yu,billy.yu@georgebrown.ca,Student,CRN-46125-201702,13.37,24,29.05,7.72,74
+101142734,Chao,Zhang,chao.zhang@georgebrown.ca,Student,CRN-46125-201702,14.91,24,18.2,7.32,64
+101086419,Binbin,Zhu,binbin.zhu@georgebrown.ca,Student,CRN-46126-201702,14.8,27.9,20.65,14.46,78
+101017519,Xiaofeng,Zhuang,xiaofeng.zhuang@georgebrown.ca,Student,CRN-46123-201702,14.97,29.1,21,16.7,82
